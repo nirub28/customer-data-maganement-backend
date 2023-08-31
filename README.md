@@ -18,6 +18,3 @@ npm install
 - `GET /api/customers/:id`: Get details of a specific customer.
 - `PUT /api/customers/:id`: Update details of a customer.
 - `DELETE /api/customers/:id`: Delete a customer.
-
-
-
